@@ -14,8 +14,13 @@ report.txt -- sample output file
 
 The output files shows: 
 -- black scatterplot: original OD values
+
 -- blue scatterplot: log2 OD values
+
 -- green scatterplot: estimated growth rate (mu) in sliding windows for each time poitn
+
 -- orange scatterplot: R2 for fitting
+
 -- vertical blue line: lag phase taken to the report file
+
 -- red dot: corrected lag phase taken to the report file
