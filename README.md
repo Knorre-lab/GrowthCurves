@@ -111,6 +111,7 @@ Each `plots/*.png` shows, for one well:
 The overview pages show raw OD curves with the fitted exponential segment in
 red; wells with a QC flag are drawn in grey.
 
+![Sample Output Plot](GrowthCurves/SamplePlot.png)
 
 
 ## Settings
