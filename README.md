@@ -111,6 +111,8 @@ Each `plots/*.png` shows, for one well:
 The overview pages show raw OD curves with the fitted exponential segment in
 red; wells with a QC flag are drawn in grey.
 
+
+
 ## Settings
 
 All settings are in the `SETTINGS` block at the top of the script:
@@ -166,6 +168,21 @@ All settings are in the `SETTINGS` block at the top of the script:
 - Doubling time, corrected lag and script version are now reported.
 - Base R only — no packages required.
 
-## License / citation
+## License
 
-*Add license and citation information here.*
+This script is released under the [MIT License](LICENSE): it is free to use,
+copy, modify and distribute, also in commercial and closed-source projects, as
+long as the copyright notice is retained. The software is provided "as is",
+without warranty of any kind.
+
+## Citation
+
+The license places no restrictions on use, but if you use this script (in any
+version) in work leading to a publication, **please cite the paper where an
+earlier version of the script was used**:
+
+> Kashko ND, Muravyov G, Karavaeva I, Glagoleva ES, Logacheva MD,
+> Garushyants SK, Knorre DA (2025) Inheritance bias of deletion-harbouring
+> mtDNA in yeast: The role of copy number and intracellular selection.
+> *PLoS Genetics* 21(6): e1011737.
+> https://doi.org/10.1371/journal.pgen.1011737
